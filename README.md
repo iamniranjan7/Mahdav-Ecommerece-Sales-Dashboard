@@ -13,8 +13,8 @@ Mahdav Store is a sales analytics project developed using Microsoft Power BI. Th
 - DAX for measures and calculations
 
 ## Project Files
-- `Mahdav Store.pbix` — Power BI report file
 - `Mahdav Store.pbit` — Power BI template file
+- 'dashboard.png' - Power BI Dashboard Screenshot
 
 ## Key Objectives
 - Analyze sales performance and business trends
@@ -22,11 +22,6 @@ Mahdav Store is a sales analytics project developed using Microsoft Power BI. Th
 - Enable users to explore business data interactively
 
 ## How to Use
-1. Download the `.pbix` file from this repository.
+1. Download the `.pbit` file from this repository.
 2. Open it in Microsoft Power BI Desktop.
 3. Interact with the report using the available filters and visualizations.
-
-## Author
-Niranjan Shinde
-
-Data Analytics | Power BI | SQL | Python
