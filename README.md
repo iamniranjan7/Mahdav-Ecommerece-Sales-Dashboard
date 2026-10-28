@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Mahdav Store Dashboard](images/dashboard.png)
+![Mahdav Store Dashboard](dashboard.png)
 
 ## Project Overview
 Mahdav Store is a sales analytics project developed using Microsoft Power BI. The project presents sales data through an interactive dashboard to support business reporting and decision-making.
